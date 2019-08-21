@@ -1,0 +1,22 @@
+{
+  "dht1": {
+    "type": "dht11",
+    "position": "indoor"
+  },
+  "dht2": {
+    "type": "dht11",
+    "position": "outdoor"
+  },
+  "gas1": {
+    "type": "mq-9",
+    "position": "indoor"
+  },
+  "gas2": {
+    "type": "mq-9",
+    "position": "outdoor"
+  },
+  "gas3": {
+    "type": "mq-4",
+    "position": "indoor"
+  }
+}

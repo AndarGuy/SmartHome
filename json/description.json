@@ -1,0 +1,20 @@
+{
+  "dht11": {
+    "name": "Temperature and Humidity",
+    "units": ["C", "%"],
+    "values_names": ["temperature", "humidity"],
+    "values_possible": [{"min": 0, "max": 50}, {"min": 5, "max": 100}]
+  },
+  "mq-9": {
+    "name": "Carbohydrate",
+    "units": ["%"],
+    "values_names": ["gas"],
+    "values_possible": [{"min": 10, "max": 100}]
+  },
+  "mq-4": {
+    "name": "Methane",
+    "units": [""],
+    "values_names": ["gas"],
+    "values_possible": [{"min": 10, "max": 300}]
+  }
+}

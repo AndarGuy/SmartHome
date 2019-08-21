@@ -1,0 +1,183 @@
+@-webkit-keyframes hover_shadow {
+    from {     
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+    }
+    to {
+        -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+    }
+}
+@-moz-keyframes hover_shadow {
+    from {     
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+    }
+    to {
+        -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+    }
+}
+@-ms-keyframes hover_shadow {
+    from {     
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+    }
+    to {
+        -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+    }
+}
+@-o-keyframes hover_shadow {
+    from {     
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+    }
+    to {
+        -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+    }
+}
+@keyframes hover_shadow {
+    from {     
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.1);
+    }
+    to {
+        -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.1);
+    }
+}
+
+@-webkit-keyframes message_down {
+    from {     
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+    to {
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+}
+@-moz-keyframes message_down {
+    from {     
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+    to {
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+}
+@-ms-keyframes message_down {
+    from {     
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+    to {
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+}
+@-o-keyframes message_down {
+    from {     
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+    to {
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+}
+
+
+@keyframes message_up {
+    from {     
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+    to {
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+}
+@-webkit-keyframes message_up {
+    from {     
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+    to {
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+}
+@-moz-keyframes message_up {
+    from {     
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+    to {
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+}
+@-ms-keyframes message_up {
+    from {     
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+    to {
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+}
+@-o-keyframes message_up {
+    from {     
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+    to {
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+}
+@keyframes message_up {
+    from {     
+        -webkit-transform: translateY(0px);
+        -ms-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+    to {
+        -webkit-transform: translateY(-26px);
+        -ms-transform: translateY(-26px);
+        transform: translateY(-26px);
+    }
+}
